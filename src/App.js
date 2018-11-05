@@ -9,7 +9,9 @@ class App extends Component {
         <h1>Capital One's Mind Sumo Challenge</h1>
         <h2>By Gail Steward</h2>
         <br />
-        <h3>Solution to question #1</h3>
+        <h3>Solution to question 1 </Img> src= "image (2)" alt= "graph one"> </h3>
+        <h3> <Img src= "image (1)"alt = "graph two"></h3>
+        <h3><img src= "image" alt = "graph three"></img></h3>
         <br />
         <h3>Solution to question 2<br /><strong>start:<strong>	3069	307 S Broadway, Los Angeles, CA 90013, USA <br /><strong>stop:<strong>	3005	800 W 7th St, Los Angeles, CA 90017, USA #2</h3>
         <br />
