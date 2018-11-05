@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import { Container } from 'reactstrap'
 import './App.css';
 
-import GraphOne from"OneWayToRoundTrip";
-import GraphTwo from "PassHolderType";
-import GraphThree from "StartingStation";
+import GraphOne from"OneWayToRoundTrip.png";
+import GraphTwo from "PassHolderType.png";
+import GraphThree from "StartingStation.png";
 
 class App extends Component {
   render() {
@@ -13,9 +13,9 @@ class App extends Component {
         <h1>Capital One's Mind Sumo Challenge</h1>
         <h2>By Gail Steward</h2>
         <br />
-        <h3>Solution to question 1 <img src= "OneWayToRoundTrip" alt= "graph one" /> </h3>
-        <h3> <img src= "PassHolderType" alt = "graph two" /></h3>
-        <h3><img src= "StartingStation" alt = "graph three"></img></h3>
+        <h3>Solution to question 1 <img src= "OneWayToRoundTrip.png" alt= "graph one" /> </h3>
+        <h3> <img src= "PassHolderType.png" alt = "graph two" /></h3>
+        <h3><img src= "StartingStation.png" alt = "graph three"></img></h3>
         <br />
         <h3>Solution to question 2<br /><strong>start:</strong>	3069	307 S Broadway, Los Angeles, CA 90013, USA <br /><strong>stop:</strong>	3005	800 W 7th St, Los Angeles, CA 90017, USA #2</h3>
         <br />
