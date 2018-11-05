@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import { Container } from 'reactstrap'
 import './App.css';
 
-import GraphOne from "OneWayToRoundTrip.png";
-import GraphTwo from "PassHolderType.png";
-import GraphThree from "StartingStation.png";
+import GraphOne from "./OneWayToRoundTrip.png";
+import GraphTwo from "./PassHolderType.png";
+import GraphThree from "./StartingStation.png";
 
 class App extends Component {
   render() {
